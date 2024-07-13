@@ -15,7 +15,7 @@ namespace PersonFix
         private static void Main(string[] args)
         {
             // Setup Variables
-            string[] IPtoBlock = ["92.223.84.79", "108.157.229.30", "92.223.84.79"];
+            string[] IPtoBlock = ["0.0.0.0", "1.1.1.1", "2.2.2.2"];
             string FirewallRuleName = "TestRule";
             string FirewallRuleDescription = "Description";
 
